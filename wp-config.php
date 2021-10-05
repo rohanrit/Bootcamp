@@ -14,13 +14,13 @@
  * * ABSPATH
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/
- *
+ * username: admin  passoword: !xn!k0YOf*X4&rtKGc
  * @package WordPress
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'bootcamp_db' );
+define( 'DB_NAME', 'blogknorish_db' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
